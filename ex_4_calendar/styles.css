@@ -1,16 +1,17 @@
 table {
+    margin: 50px 50px;
     border-collapse: collapse;
   }
 
   td,
   th {
-    border: 1px solid black;
     padding: 3px;
     text-align: center;
   }
 
 td {
     cursor: pointer;
+    height: 50px;
 }
 
   th {
